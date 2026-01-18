@@ -7,3 +7,5 @@ A randomly generated chess game. Written in python.
 -It outputs the SVG of the final move of the game and stops once there is a stalemate (by the 50 move rule) or checkmate.
 
 -It also outputs the PGN, which is a pastable format for chess games.
+
+-This is only for CLI (command line interface). GUI will be made later.
